@@ -26,7 +26,7 @@ export class AddTodo extends Component {
                     required
                     autocomplete="off"
                 />
-                <input type="submit" value="Submit" className="btn" style={{ flex: '1' }} />
+                <input type="submit" value="Add" className="btn" style={{ flex: '1' }} />
             </form>
         );
     }

@@ -2,10 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const headerStyle = {
-    background: '#333',
+    background: '#333333',
     color: '#fff',
     textAlign: 'center',
-    padding: '10px'
+    padding: '10px',
+    borderRadius: '15px 15px 0px 0px'
 };
 
 const linkStyle = {

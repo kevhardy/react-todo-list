@@ -1,3 +1,7 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 .container {
     padding: 0.5rem 1rem;
 }
@@ -5,12 +9,12 @@
 .btn {
     display: inline-block;
     border: none;
-    background: #555;
+    background: #007bff;
     color: #fff;
     padding: 7px 20px;
     cursor: pointer;
 }
 
 .btn:hover {
-    background: #666;
+    background: #0069d9;
 }
