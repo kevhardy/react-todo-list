@@ -2,6 +2,8 @@
 
 A simple Todo List app used for learning the basics of React. You can create or delete todo items and strikeout ones that are completed.
 
+View live version here: [https://kevhardy.github.io/react-todo-list/](https://kevhardy.github.io/react-todo-list/)
+
 ## Setup
 
 First, ensure that you have Node.js (version 6 or greater) and `npm` (preferably
