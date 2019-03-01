@@ -18,7 +18,7 @@ class App extends Component {
             },
             {
                 id: 2,
-                title: 'Place Holder Todo (Already completed)',
+                title: 'Place Holder (Already completed)',
                 completed: true
             },
             {
@@ -59,7 +59,7 @@ class App extends Component {
     render() {
         const { todos } = this.state;
         return (
-            <BrowserRouter>
+            <BrowserRouter basename="/react-todo-list">
                 <div className="App">
                     <div className="container">
                         <Header />
